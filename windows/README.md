@@ -6,10 +6,14 @@ This page contains the Seismove software installation for Windows. Below are the
 
 ## **Windows Installation**
 
+
 The firmware uploader software requires the Arduino CLI as a dependency. For installation instructions, please refer to [arduino_cli installation](../firmware/arduino_cli.md).
+
 
 ### **Latest Version**
 The latest versions of the software are available at the links below:
+
+[**Download Seismove Precursor Client v3 for SM-P4**](https://drive.google.com/file/d/1XDRjD3qnYA16OjDsVV-4gQ3XFJhz8L2v/view?usp=drive_link) 
 
 [**Download Seismove Precursor Client v2.2 for SM-P3**](https://drive.google.com/file/d/1M7GokrXXrPNpXl59_xvsXFSTKBOGeVk8/view?usp=drive_link) 
 

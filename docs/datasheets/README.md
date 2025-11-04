@@ -6,3 +6,4 @@ This page contains the datasheets for the **Seismove Precursor**, a single-axis 
 
 - For model numbers **SM-P** (SM-P-001, SM-P-002, SM-P-003), **SM-P1**, and **SM-P2** , please refer to **Precursor_datasheet_v1**
 - For model number **SM-P3** (400 x 400 mm bed), please refer to **Precursor_pro_datasheet_v1**
+- For model number **SM-P4** (400 x 400 mm bed), please refer to **Precursor_pro_datasheet_v2**
