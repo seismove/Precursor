@@ -1,5 +1,8 @@
 # **Seismove Firmware**
 
+**Please contact Seismove (seismove@gmail.com) for firmware updating instructions before proceeding the firmware update. Any uninstructed operation may cause damage and injury. Seismove does not have liability to the damage and injury when the firmware update is conducted without instruction.**
+
+
 ## Seismove Firmware Upload Software
 
 #### Windows
