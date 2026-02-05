@@ -81,4 +81,4 @@ The Precursor shake table is intended for **educational and research purposes on
 - [User Manual](./docs/manuals/)
 - [Installation Guide Video](https://www.youtube.com/watch?v=EvGCJVTUTvM) 
 - [Operation Instruction Video](https://www.youtube.com/watch?v=_x_bwcrs5Rk)
-- [Firmware Upload Video](https://www.youtube.com/watch?v=Nx1yT0BBrlE) 
+

@@ -41,6 +41,8 @@ The following instructions guide you through the installation of Arduino CLI and
 arduino-cli version
 ```
 
+
+
 ### macOS
 If you install Arduino CLI via Homebrew, there is no need to configure the PATH environment variable. You can verify the installation by following these steps:
 1. Open the Terminal.
@@ -51,3 +53,6 @@ If you install Arduino CLI via Homebrew, there is no need to configure the PATH 
 1. Open the Terminal.
 2. Run `arduino-cli version`
 
+
+### Video Tutorial
+- [Firmware Upload Video](https://www.youtube.com/watch?v=Nx1yT0BBrlE) 
