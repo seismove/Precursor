@@ -10,7 +10,7 @@ This page contains the Seismove software installation for MacOS. Below are the d
 ### **Latest Version**
 The latest versions of the software are available at the links below:
 
-[**Download Seismove Precursor Client v3 for SM-P4**](https://drive.google.com/file/d/1tUbbmQndhf52WqhdJtKLOieAvznp22BK/view?usp=drive_link) (**SM-P-004**)
+[**Download Seismove Precursor Client v3 for SM-P4**](https://drive.google.com/file/d/1Wv61pmo_D_X3u5jn477wdv1tLIYsaGq6/view?usp=sharing) (**SM-P-004**)
 
 [**Download Seismove Precursor Client v2.1 for SM-P**](https://drive.google.com/file/d/1ZeZnG1IUBe5QreDPK90shnLRGYc2Yl6k/view?usp=drive_link) (**SM-P-001**, **SM-P-002**, **SM-P-003**)
 
